@@ -1,0 +1,6 @@
+proximas etapas:
+    editar o csv pelo codigo
+    conferir todos os diretorios necessarios e arquivos e criar
+    compilar para c para quebrar a lentidao
+    mudar o estilo
+    corrigir todos os warnings

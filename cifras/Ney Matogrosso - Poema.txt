@@ -1,0 +1,231 @@
+Ney Matogrosso - Poema
+
+[Intro] C  G  Dm  F
+        C  G  Dm  F
+
+[Tab - Intro]
+
+   C        G       Dm  F
+E|----------/15~------------------|
+B|-/13~-------------13~--10/8-----|
+G|--------------------------------| (2x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Primeira Parte]
+
+C                      G            
+  Eu hoje tive um pesadelo 
+             Dm       F   
+E levantei atento, a tempo
+C                         G
+  Eu acordei com medo e procurei no escuro
+            Dm                F
+Alguém com seu carinho e lembrei de um tempo
+
+[Refrão 1]
+
+Am                       Am7/G
+   Porque o passado me traz uma lembrança
+    F7                F     
+Do tempo que eu era criança
+Am                 Am7/G
+   E o medo era motivo de choro
+    F                         G
+Desculpa pra um abraço ou consolo
+
+( C  G  Dm  F )
+
+[Tab - Intro]
+
+   C        G       Dm  F
+E|----------/15-------------------|
+B|-/13~-------------13~--10/8-----|
+G|--------------------------------| (2x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Segunda Parte]
+
+ C                     G                 Dm
+Hoje eu acordei com medo, mas não chorei
+                F
+Nem reclamei abrigo
+C                     G                     Dm
+  Do escuro eu via um infinito sem presente
+              F
+Passado ou futuro
+C                  G                     Dm
+  Senti um abraço forte, já não era medo
+                         F7M
+Era uma coisa sua que ficou em mim 
+
+[Refrão 2]
+
+[Tab - Frase 1]
+
+E|------------------/15~----------|
+B|--10/8--------------------------|
+G|----------9/12------------------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Tab - Frase 2]
+                       H.N
+E|--------------------------------|
+B|-/10~---/12~---/13~------13-----|
+G|---------------------12---------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+F                     G
+  De repente a gente vê que perdeu
+      Am                 D
+Ou está perdendo alguma coisa
+F                G
+  Morna e ingênua
+                      Am   (Frase 1)  (Am7  Am)
+Que vai ficando no caminho
+F                  G                    
+  Que é escuro e frio, mas também bonito
+Am                D
+   Porque é iluminado
+ F (Frase 2)         G
+Pela beleza do que aconteceu
+      C
+Há minutos atrás
+
+[Interlúdio] C  G  Dm  F
+             C  G  Dm  F
+
+[Tab - Interlúdio]
+
+   C        G       Dm  F
+E|----------/15~------------------|
+B|-/13~-------------13~--10/8-----|
+G|--------------------------------| (2x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Primeira Parte]
+
+C                      G            
+  Eu hoje tive um pesadelo 
+             Dm       F   
+E levantei atento, a tempo
+C                         G
+  Eu acordei com medo e procurei no escuro
+            Dm                F
+Alguém com seu carinho e lembrei de um tempo
+
+[Refrão 1]
+
+[Tab - Frase 3]
+
+E|--------------------------------|
+B|--/10~---/8~---/6~---/10~-------|
+G|--------------------------------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+Am                       Am7/G
+   Porque o passado me traz uma lembrança
+    F7                F     
+Do tempo que eu era criança
+Am (Frase 3)       Am7/G
+   E o medo era motivo de choro
+    F                         G
+Desculpa pra um abraço ou consolo
+
+[Segunda Parte]
+
+ C                     G                 Dm
+Hoje eu acordei com medo, mas não chorei
+                F
+Nem reclamei abrigo
+C                     G                     Dm
+  Do escuro eu via um infinito sem presente
+              F
+Passado ou futuro
+C                  G                     
+  Senti um abraço forte, já não era medo
+Dm                       F7M
+Era uma coisa sua que ficou em mim
+
+Que não tem fim
+
+[Refrão 2]
+
+[Tab - Frase 1]
+
+E|------------------/15~----------|
+B|--10/8--------------------------|
+G|----------9/12------------------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+[Tab - Frase 2]
+                       H.N
+E|--------------------------------|
+B|-/10~---/12~---/13~------13-----|
+G|---------------------12---------|
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+F                     G
+  De repente a gente vê que perdeu
+      Am                 D
+Ou está perdendo alguma coisa
+F                G
+  Morna e ingênua
+                      Am   (Frase 1)  (Am7  Am)
+Que vai ficando no caminho
+F                  G                    
+  Que é escuro e frio, mas também bonito
+Am                D
+   Porque é iluminado
+ F (Frase 2)         G
+Pela beleza do que aconteceu
+      C
+Há minutos atrás
+
+[Final]
+
+[Tab - Final]
+
+   C        G       Dm  F
+E|----------/15~------------------|
+B|-/13~-------------13~--10/8-----|
+G|--------------------------------| (4x)
+D|--------------------------------|
+A|--------------------------------|
+E|--------------------------------|
+
+C   G   Dm  F
+Hm, hm, hm, hm
+C   G   Dm  F
+Hm, hm, hm, hm
+
+( C  G  Dm  F )
+( C  G  Dm  F )
+( C )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 2 1 3
+Am7/G = 3 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

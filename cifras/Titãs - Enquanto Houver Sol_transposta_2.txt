@@ -1,0 +1,101 @@
+Titãs - Enquanto Houver Sol
+
+[Tab - Intro]
+
+E|-4-5-4---4-5-4--------7-2-4-2-0-----------|
+B|-5-----5-5----5-5-4-5-----------0---------|
+G|-6-------5------4-------4-----------------|
+D|------------------------------------------|
+A|-0-------0--------------------------------|
+E|----------------0-------4-----------------|
+
+None None
+E|-4-5-4---4-5-4---------0------------------|
+B|-5-----5-5-----5-5/7-5-0-0----------------|
+G|-6-------5-------------1-----1h2-1--------|
+D|---------------------------2--------------|
+A|-0-------0--------------------------------|
+E|------------------------------------------|
+
+None None
+Quando não houver saída
+None None
+Quando não houver mais solução
+None None
+Ainda há de haver saída
+None None None None
+Nenhuma idéia vale uma vida
+None None
+Quando não houver esperança
+None None
+Quando não restar nem ilusão
+None None
+Ainda há de haver esperança
+None None None None
+Em cada um de nós, algo de uma criança
+
+Refrão: guitarra 2 - riff da intro
+
+None None
+Enquanto houver sol, enquanto houver sol
+None None
+Ainda haverá
+None None None None None
+Enquanto houver sol, enquanto houver sol
+
+Solo: E7(4/9)  E
+E|--------------------------------------------------|
+B|-7-7-7/9-9-9-7-7-9-7-7-5-5------------------------|
+G|-7-7-7/9-9-9-7-7-9-7-7-4-4------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+None None
+Quando não houver caminho
+None None
+Mesmo sem amor, sem direção
+None None
+A sós ninguém está sozinho
+None None None None
+É caminhando que se faz o caminho
+None None
+Quando não houver desejo
+None None
+Quando não restar nem mesmo dor
+None None
+Ainda há de haver desejo
+None None None None
+Em cada um de nós, aonde Deus colocou
+None None
+Enquanto houver sol, enquanto houver sol
+None None
+Ainda haverá
+None None None None None
+Enquanto houver sol, enquanto houver sol
+
+Solo: E7(4/9)  E
+E|--------------------------------------------------|
+B|-7-7-7/9-9-9-7-7-9-7-7-5-5------------------------|
+G|-7-7-7/9-9-9-7-7-9-7-7-4-4------------------------|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+Refrão:
+None None
+Enquanto houver sol, enquanto houver sol
+None None
+Ainda haverá
+None None None None None
+Enquanto houver sol, enquanto houver sol
+
+----------------- Acordes -----------------
+A = 5 7 7 6 5 5
+Am = X 0 2 2 1 0
+B = 7 6 4 4 4 7
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7(4/9) = X X 2 2 3 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

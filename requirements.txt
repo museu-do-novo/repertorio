@@ -1,0 +1,18 @@
+InquirerPy
+pandas
+tqdm
+pure-python-adb
+yt-dlp
+rich
+logging
+pyperclip
+ffmpeg
+rich
+pychord
+colorama
+InquirerPy
+beautifulsoup4
+requests
+
+
+# nuitka --onefile --lto=yes --enable-plugin=implicit-imports --clang --show-progress --remove-output seu_programa.py
