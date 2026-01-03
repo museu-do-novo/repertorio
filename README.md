@@ -30,6 +30,33 @@ De forma **interativa**, a ferramenta permite:
 
 ---
 
+## 📚 Observações Técnicas
+
+    CSV (repertorio.csv)
+    Arquivo estruturado para listagem e controle do repertório.
+
+    ADB (Android Debug Bridge)
+    Ferramenta que permite enviar, organizar e acessar arquivos diretamente no celular Android via USB ou Wi-Fi.
+
+    Scraper Cifra Club
+    Automatiza a coleta de cifras diretamente do site, evitando downloads manuais repetitivos.
+
+## 🎯 Objetivo do Projeto
+
+Criar uma ferramenta unificada, leve e funcional que:
+
+    economiza tempo
+
+    reduz trabalho manual
+
+    integra música + programação
+
+    funciona tanto no desktop quanto no Android
+
+## 💡 Ideal para músicos independentes, bandas, professores de música e programadores que vivem com o terminal aberto.
+
+---
+
 ## 📦 Requisitos
 
 - Python >=3.12
@@ -67,27 +94,4 @@ git clone https://github.com/museu-do-novo/repertorio.git
 
 ---
 
-## 📚 Observações Técnicas
 
-    CSV (repertorio.csv)
-    Arquivo estruturado para listagem e controle do repertório.
-
-    ADB (Android Debug Bridge)
-    Ferramenta que permite enviar, organizar e acessar arquivos diretamente no celular Android via USB ou Wi-Fi.
-
-    Scraper Cifra Club
-    Automatiza a coleta de cifras diretamente do site, evitando downloads manuais repetitivos.
-
-## 🎯 Objetivo do Projeto
-
-Criar uma ferramenta unificada, leve e funcional que:
-
-    economiza tempo
-
-    reduz trabalho manual
-
-    integra música + programação
-
-    funciona tanto no desktop quanto no Android
-
-## 💡 Ideal para músicos independentes, bandas, professores de música e programadores que vivem com o terminal aberto.
