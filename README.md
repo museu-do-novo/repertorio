@@ -41,27 +41,27 @@ De forma **interativa**, a ferramenta permite:
 
 ## ▶️ Utilização
 
-### 1️⃣ Clonar o repositório
+### Clonar o repositório
 
 ```bash
 git clone https://github.com/museu-do-novo/repertorio.git
 
-### 2️⃣ Entrar na pasta do projeto
+### Entrar na pasta do projeto
 cd repertorio
 
-### 3️⃣ Criar o ambiente virtual (opcional, porém altamente recomendado)
+### Criar o ambiente virtual (opcional, porém altamente recomendado)
 
 python3 -m venv .venv
 
-### 4️⃣ Ativar o ambiente virtual
+### Ativar o ambiente virtual
 
 source .venv/bin/activate
 
-### 5️⃣ Instalar as dependências
+### Instalar as dependências
 
 pip install -r requirements.txt
 
-6️⃣ Executar o programa
+Executar o programa
 
 python3 repertorio.py
 
