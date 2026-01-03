@@ -65,7 +65,7 @@ Executar o programa
 
 python3 repertorio.py
 
-📚 Observações Técnicas
+## 📚 Observações Técnicas
 
     CSV (repertorio.csv)
     Arquivo estruturado para listagem e controle do repertório.
@@ -76,7 +76,7 @@ python3 repertorio.py
     Scraper Cifra Club
     Automatiza a coleta de cifras diretamente do site, evitando downloads manuais repetitivos.
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Criar uma ferramenta unificada, leve e funcional que:
 
