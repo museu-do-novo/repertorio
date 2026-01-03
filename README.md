@@ -69,26 +69,26 @@ funciona tanto no desktop quanto no Android
 ## ▶️ Utilização
 
 ```bash
-Clonar o repositório
+# Clonar o repositório
 
 git clone https://github.com/museu-do-novo/repertorio.git
 
-Entrar na pasta do projeto
+# Entrar na pasta do projeto
   cd repertorio
 
-Criar o ambiente virtual (opcional, porém altamente recomendado)
+# Criar o ambiente virtual (opcional, porém altamente recomendado)
 
   python3 -m venv .venv
 
-Ativar o ambiente virtual
+# Ativar o ambiente virtual
 
   source .venv/bin/activate
 
-Instalar as dependências
+# Instalar as dependências
 
   pip install -r requirements.txt
 
-Executar o programa
+# Executar o programa
 
   python3 repertorio.py
 
