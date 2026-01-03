@@ -47,23 +47,25 @@ De forma **interativa**, a ferramenta permite:
 git clone https://github.com/museu-do-novo/repertorio.git
 
 ### Entrar na pasta do projeto
-cd repertorio
+**cd repertorio**
 
 ### Criar o ambiente virtual (opcional, porém altamente recomendado)
 
-python3 -m venv .venv
+**python3 -m venv .venv**
 
 ### Ativar o ambiente virtual
 
-source .venv/bin/activate
+**source .venv/bin/activate**
 
 ### Instalar as dependências
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
-Executar o programa
+### Executar o programa
 
-python3 repertorio.py
+**python3 repertorio.py**
+
+---
 
 ## 📚 Observações Técnicas
 
@@ -88,4 +90,4 @@ Criar uma ferramenta unificada, leve e funcional que:
 
     funciona tanto no desktop quanto no Android
 
-💡 Ideal para músicos independentes, bandas, professores de música e programadores que vivem com o terminal aberto.
+## 💡 Ideal para músicos independentes, bandas, professores de música e programadores que vivem com o terminal aberto.
